@@ -1,0 +1,13 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": { "builder": "DOCKERFILE", "dockerfilePath": "Dockerfile" },
+  "deploy": { "restartPolicyType": "ON_FAILURE", "restartPolicyMaxRetries": 5 },
+  "params": {
+    "SESSION_ID": { "description": "WhatsApp Session ID", "required": true },
+    "MONGODB": { "description": "MongoDB URL", "required": true },
+    "PREFIX": { "description": "Bot Prefix", "defaultValue": ".", "required": false },
+    "PACKNAME": { "description": "Sticker Pack Name", "defaultValue": "Marin-MD", "required": false },
+    "AUTHOR": { "description": "Sticker Author", "defaultValue": "Sten-X", "required": false },
+    "MODS": { "description": "Owner Number", "required": false }
+  }
+}
