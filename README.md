@@ -1,48 +1,65 @@
 <p align="center">
 <a href="https://github.com/Sten-X/Marin-Kitagawa-MD">
-    <img src="https://images2.alphacoders.com/120/thumb-1920-1202696.jpg">
+    <img src="https://images2.alphacoders.com/120/thumb-1920-1202696.jpg" width="100%" style="border-radius: 10px;">
   </a>
+</p>
 
-<h1 align="center"> Marin Kitagawa MD
-</h1>
+<h1 align="center">  Marin Kitagawa MD  </h1>
 
 <p align="center"> 
-<b>Konnichiwa Senpai, I am "Marin Kitagawa" an Opensource WhatsApp bot made by <a href="https://github.com/Sten-X">Sten-X</a> and his own project "Marin Kitagawa" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am <b>"Marin Kitagawa"</b> an Opensource WhatsApp bot made by <a href="https://github.com/Sten-X"><b>Sten-X</b></a>. Built with the highest <b>Stability</b>, <b>Features</b>, and <b>Compatibility</b> using Baileys Multi-Device support.
+</p>
 
-<h3 align="center"> Marin Kitagawa MD - The Future Is Here
-</h4>
+<h3 align="center"> The Future Is Here 🚀 </h3>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/Sten-X/Marin-Kitagawa-MD/fork">
     <img src="https://img.shields.io/github/forks/Sten-X/Marin-Kitagawa-MD?label=Fork&style=social">
-    
-    
+  </a>
   <a href="https://github.com/Sten-X/Marin-Kitagawa-MD/stargazers">
     <img src="https://img.shields.io/github/stars/Sten-X/Marin-Kitagawa-MD?style=social">
   </a>
-
-<br>
-
-<a href="https://github.com/Sten-X/Marin-Kitagawa-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Sten-X/Marin-Kitagawa-MD visitor-badge&left_text=Total%20People%20Visited">
+  <a href="https://github.com/Sten-X/Marin-Kitagawa-MD">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSten-X%2FMarin-Kitagawa-MD&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" width="150px">
   </a>
-  <br><br>
-  
-      
- 
-<h2 align="center"> Automatic Deployment Methods 🚀</h2>
-
-<p align="center"><b>Choose your favourite platform to deploy Marin Kitagawa MD</b></p>
+</p>
 
 <p align="center">
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Sten-X/Marin-Kitagawa-MD">
+  <a href="https://github.com/Sten-X">
+    <img title="Owner" src="https://img.shields.io/badge/Owner-Sten--X-red.svg?style=for-the-badge&logo=github" width="170px">
+  </a>
+  <a href="https://github.com/Sten-X/Marin-Kitagawa-MD/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Sten-X/Marin-Kitagawa-MD?color=%231e81b0&style=for-the-badge" width="114px">
+  </a>
+</p>
+
+<p align="center">
+  <img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px">
+  <img title="Maintained" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px">
+</p>
+
+<br>
+<hr>
+<br>
+ 
+# 🧩 Deploy Marin Kitagawa
+     
+<details close>
+<summary><b>Click to choose your favourite platform to Deploy</b></summary>
+ 
+<br><br>   
+
+<h4 align="center"> Deploy on Heroku </h4>
+<p align="center">
+    <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSten-X%2FMarin-Kitagawa-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="180px" alt="Deploy on Heroku">
     </a>
 </p>
-<br>
+<p align="center"><br>__________________________<br></p>
 
+<h4 align="center"> Deploy on Koyeb </h4>
 <p align="center">
     <a href="https://app.koyeb.com/deploy?type=docker&image=quay.io/sten-x/marin-kitagawa-md:latest&env[PORT]=8000&env[PREFIX]=.&env[MONGODB]=&env[SESSION_ID]=&env[MODS]=&env[PACKNAME]=Marin-MD&env[AUTHOR]=Sten-X&name=marin-kitagawa">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="180px" alt="Deploy on Koyeb">
@@ -50,17 +67,19 @@
     <br>
     <a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube" width="130px"></a>
 </p>
-<br>
+<p align="center"><br>__________________________<br></p>
 
+<h4 align="center"> Deploy on Railway </h4>
 <p align="center">
-    <a href="https://railway.app/new/template?template=https://github.com/Sten-X/Marin-Kitagawa-MD">
+    <a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FSten-X%2FMarin-Kitagawa-MD&envs=SESSION_ID&envs=MONGODB&envs=PREFIX&envs=PACKNAME&envs=AUTHOR&envs=MODS">
     <img src="https://railway.app/button.svg" width="180px" alt="Deploy on Railway">
     </a>
     <br>
     <a href="https://youtu.be/Qs6ryWnEtu8"><img src="https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube" width="130px"></a>
 </p>
-<br>
+<p align="center"><br>__________________________<br></p>
 
+<h4 align="center"> Deploy on Replit </h4>
 <p align="center">
     <a href="https://replit.com/github/Sten-X/Marin-Kitagawa-MD">
     <img src="https://replit.com/badge/github/Sten-X/Marin-Kitagawa-MD" width="180px" alt="Deploy on Replit">
@@ -68,35 +87,34 @@
     <br>
     <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube" width="130px"></a>
 </p>
-<br>
+<p align="center"><br>__________________________<br></p>
 
+<h4 align="center"> Deploy on Render </h4>
 <p align="center">
-    <a href="https://render.com/deploy?repo=https://github.com/Sten-X/Marin-Kitagawa-MD">
+    <a href="https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2FSten-X%2FMarin-Kitagawa-MD">
     <img src="https://render.com/images/deploy-to-render-button.svg" width="180px" alt="Deploy on Render">
     </a>
 </p>
-<br>
+<p align="center"><br>__________________________<br></p>
 
+<h4 align="center"> Deploy on Glitch </h4>
 <p align="center">
     <a href="https://glitch.com/edit/#!/import/github/Sten-X/Marin-Kitagawa-MD">
     <img src="https://img.shields.io/badge/Deploy%20on%20Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" width="180px" alt="Deploy on Glitch">
     </a>
 </p>
-<br>
+<p align="center"><br>__________________________<br></p>
 
+<h4 align="center"> Deploy on Scalingo </h4>
 <p align="center">
     <a href="https://my.scalingo.com/deploy?source=https://github.com/Sten-X/Marin-Kitagawa-MD">
     <img src="https://cdn.scalingo.com/deploy/button.svg" width="180px" alt="Deploy on Scalingo">
     </a>
 </p>
-<br>
+<p align="center"><br>__________________________<br></p>
 
-<p align="center">
-    <a href="https://vercel.com/new/clone?repository-url=https://github.com/Sten-X/Marin-Kitagawa-MD">
-    <img src="https://vercel.com/button" width="180px" alt="Deploy on Vercel">
-    </a>
-</p>
-<br>
+</details>
+<br>        
 <h4 align="center"> Facing Trouble? Join my WhatsApp Group for Support.
 </h4>
 
